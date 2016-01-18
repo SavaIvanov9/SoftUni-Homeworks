@@ -1,0 +1,4 @@
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\HQ Code\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.exe
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\HQ Code\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.pdb
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\HQ Code\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.exe
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\HQ Code\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.pdb

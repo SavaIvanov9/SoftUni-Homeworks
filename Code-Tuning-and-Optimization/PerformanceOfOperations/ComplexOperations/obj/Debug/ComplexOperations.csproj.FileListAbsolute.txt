@@ -1,0 +1,5 @@
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\HQ Code\10. Code-Tuning-and-Optimization-Homework\PerformanceOfOperations\ComplexOperations\bin\Debug\ComplexOperations.exe.config
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\HQ Code\10. Code-Tuning-and-Optimization-Homework\PerformanceOfOperations\ComplexOperations\bin\Debug\ComplexOperations.exe
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\HQ Code\10. Code-Tuning-and-Optimization-Homework\PerformanceOfOperations\ComplexOperations\bin\Debug\ComplexOperations.pdb
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\HQ Code\10. Code-Tuning-and-Optimization-Homework\PerformanceOfOperations\ComplexOperations\obj\Debug\ComplexOperations.exe
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\HQ Code\10. Code-Tuning-and-Optimization-Homework\PerformanceOfOperations\ComplexOperations\obj\Debug\ComplexOperations.pdb

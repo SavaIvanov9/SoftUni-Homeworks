@@ -1,0 +1,6 @@
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\HQ Code\10. Code-Tuning-and-Optimization-Homework\PerformanceOfOperations\BasicOperations\bin\Debug\BasicOperations.exe.config
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\HQ Code\10. Code-Tuning-and-Optimization-Homework\PerformanceOfOperations\BasicOperations\bin\Debug\BasicOperations.exe
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\HQ Code\10. Code-Tuning-and-Optimization-Homework\PerformanceOfOperations\BasicOperations\bin\Debug\BasicOperations.pdb
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\HQ Code\10. Code-Tuning-and-Optimization-Homework\PerformanceOfOperations\BasicOperations\obj\Debug\BasicOperations.csprojResolveAssemblyReference.cache
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\HQ Code\10. Code-Tuning-and-Optimization-Homework\PerformanceOfOperations\BasicOperations\obj\Debug\BasicOperations.exe
+C:\Users\vivacom.bg\Desktop\SoftUni\Fundamental Level\HQ Code\10. Code-Tuning-and-Optimization-Homework\PerformanceOfOperations\BasicOperations\obj\Debug\BasicOperations.pdb
